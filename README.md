@@ -1,2 +1,2 @@
-# quotesApp
-It will generate a random quote on click.
+# qutoesApp
+This will generate random quotes on click..

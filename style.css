@@ -1,0 +1,43 @@
+ body{
+   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   min-height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+ .container{
+   text-align: center;
+ }
+
+ .quote-text{
+   width: 70%
+   margin: 0 auto;
+ }
+
+ #quote{
+   font-size: 35px;
+   color: #fff;
+ }
+ p{
+   color:#b20202;
+   font-size: 30px;
+
+ }
+
+ #btn{
+   padding: 10px 20px;
+   background-color: #ced0ce;
+   font-size: 35px;
+   background-color: #213676;
+   color: #fff;
+   border:none;
+
+ }
+ #btn:hover{
+   color: #213676;
+   background-color: #fff;
+ }
